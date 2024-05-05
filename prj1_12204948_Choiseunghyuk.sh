@@ -19,7 +19,7 @@
 # 스크립트는 사용자가 종료를 7을 선택할 때까지 메뉴를 계속해서 표시하고 사용자 입력을 처리하기 위해 while 루프를 사용합니다.
 
 # 사용 예시:
-# ./project.sh teams.csv players.csv matches.csv
+# ./prj1_12204948_Choiseunghyuk.sh teams.csv players.csv matches.csv
 
 
 
